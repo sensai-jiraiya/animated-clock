@@ -1,1 +1,1 @@
-<svg enable-background="new 0 0 14 86" viewBox="0 0 14 86" xmlns="http://www.w3.org/2000/svg"><path d="m13 6.7v72.5c0 3.2-2.6 5.7-5.7 5.7h-.6c-3.1.1-5.7-2.5-5.7-5.6v-72.6c0-3.1 2.6-5.7 5.7-5.7h.5c3.2 0 5.8 2.6 5.8 5.7z" fill="#ff0d35"/></svg>
+<svg id="clock" xmlns="http://www.w3.org/2000/svg" width="14" height="86" viewBox="0 0 14 86"><title>hand-minute</title><rect x="-35" y="37" width="84" height="12" rx="5.7" transform="translate(-36 50) rotate(-90)" fill="#ff0d35"/></svg>
